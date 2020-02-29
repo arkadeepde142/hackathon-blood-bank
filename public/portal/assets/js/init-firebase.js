@@ -1,14 +1,12 @@
 // TODO: Replace the following with your app's Firebase project configuration
-var firebaseConfig = {
-  apiKey: "AIzaSyAlI4yJkrJyMs0Vu8a00G21Pzk877nZR6E",
-  authDomain: "electrophoria-2020.firebaseapp.com",
-  databaseURL: "https://electrophoria-2020.firebaseio.com",
-  projectId: "electrophoria-2020",
-  storageBucket: "electrophoria-2020.appspot.com",
-  messagingSenderId: "590101590642",
-  appId: "1:590101590642:web:2d1caaa854652d8eff88eb"
-
-
+const firebaseConfig = {
+  apiKey: "AIzaSyA_SCRZ7IGoCerNMGwVopHOEcq7xceel6U",
+  authDomain: "mobile-blood-bank-b4dfa.firebaseapp.com",
+  databaseURL: "https://mobile-blood-bank-b4dfa.firebaseio.com",
+  projectId: "mobile-blood-bank-b4dfa",
+  storageBucket: "mobile-blood-bank-b4dfa.appspot.com",
+  messagingSenderId: "1003890226590",
+  appId: "1:1003890226590:web:a5ca77d62802c487f2128f"
 };
   
   // Initialize Firebase
